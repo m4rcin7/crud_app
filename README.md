@@ -1,6 +1,6 @@
 # Simple CRUD app:
 
-Inspiration: https://www.youtube.com/watch?v=3IwGjihXHis&t=1853s
+This is a simple React JS CRUD application that allows users to create, read, update, and delete items using a clean and responsive interface: [Inspiration project](https://www.youtube.com/watch?v=3IwGjihXHis&t=1853s).
 
 # Demo: [HERE](https://crud-app-pi-six.vercel.app/)
 
@@ -27,7 +27,7 @@ ISSUES -> IMG
 How install this project?
 
 ```bash
-    git clone https://github.com/markopersonally/crud_app.git
+    git clone https://github.com/m4rcin7/crud_app.git
     open your editor
     npm install react-bootstrap bootstrap yup uuid react-router react-router-dom react-scripts
 ```
