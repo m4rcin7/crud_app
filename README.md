@@ -2,7 +2,10 @@
 
 This is a simple React JS CRUD application that allows users to create, read, update, and delete items using a clean and responsive interface: [Inspiration project](https://www.youtube.com/watch?v=3IwGjihXHis&t=1853s).
 
-# Demo: [HERE](https://crud-app-pi-six.vercel.app/)
+# Demo: 
+[HERE](https://crud-app-pi-six.vercel.app/)
+
+## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/0221502b-821f-403d-b0ff-6baea7a12f9b)
 
@@ -16,11 +19,6 @@ This is a simple React JS CRUD application that allows users to create, read, up
 ## Tech Stack
 
 **React**, **react-router**, **react-router-dom**,**Bootstrap**, **Uuid**, **Yup** 
-
-
-## Screenshots
-
-ISSUES -> IMG 
 
 ## Installation
 
